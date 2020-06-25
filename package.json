@@ -1,0 +1,24 @@
+{
+  "name": "lorecardsv2",
+  "version": "0.0.1",
+  "description": "Version 2 of Lore Cards, for The Lore Network",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unisys12/lorecardsv2.git"
+  },
+  "author": "Phillip Jackson (unisys12)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unisys12/lorecardsv2/issues"
+  },
+  "homepage": "https://github.com/unisys12/lorecardsv2#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
